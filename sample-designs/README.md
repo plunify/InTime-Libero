@@ -28,8 +28,6 @@ Explanation:
 
 # Sample Designs
 
-...
-...
 ```
 ### [Project mode](project_mode/)
 
